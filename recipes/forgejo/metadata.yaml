@@ -5,7 +5,7 @@ architecture:
   - amd64
 url: https://forgejo.org/
 recipeVersion: "1.0.0"
-appVersion: "12"
+appVersion: "13"
 maintainers:
   - Jan Holthuis <jan.holthuis@ruhr-uni-bochum.de>
 sources:

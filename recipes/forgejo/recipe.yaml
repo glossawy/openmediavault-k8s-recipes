@@ -38,7 +38,7 @@ spec:
     spec:
       containers:
         - name: forgejo
-          image: codeberg.org/forgejo/forgejo:12-rootless
+          image: codeberg.org/forgejo/forgejo:13-rootless
           imagePullPolicy: Always
           env:
             - name: USER_UID
